@@ -10,14 +10,14 @@ Kelemahan: 1.Command Tidak Bisa Dipakai oleh Orang Lain 2.Jika Ingin Protect Leb
 
 Cara Instal :
 
-  > pkg install python2 -y
+  >>> pkg install python2 -y
   
-  > pkg install git -y
+  >>> pkg install git -y
   
-  > git clone https://github.com/krissFx/KFXSelf
+  >>> git clone https://github.com/ammadfat/KrissFx
   
-  > pip2 install rsa
+  >>> pip2 install rsa
   
-  > pip2 install thrift==0.9.3
+  >>> pip2 install thrift==0.9.3
   
-  > pip2 install requests
+  >>> pip2 install requests
