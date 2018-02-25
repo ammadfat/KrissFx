@@ -14,7 +14,7 @@ Cara Instal :
   
   > pkg install git -y
   
-  > git clone https://github.com/koplaxs/KoplaxsSelf
+  > git clone https://github.com/krissFx/KFXSelf
   
   > pip2 install rsa
   
